@@ -266,10 +266,10 @@ Function Prototypes
     </ul>
 </details>
 <details>
-    <summary>--- Chioma</summary>
+    <summary>Jozinna Chioma</summary>
     <ul>
     <li><a href="https://www.github.com/chioma2000">Github</a></li>
-    <li><a href="https://www.twitter.com/---chioma">Twitter</a></li>
-    <li><a href="mailto:---chioma---@gmail.com">e-mail</a></li>
+    <li><a href="https://www.twitter.com/jozinnachioma">Twitter</a></li>
+    <li><a href="mailto:chichipeace2000@yahoo.ca">e-mail</a></li>
     </ul>
 </details>
