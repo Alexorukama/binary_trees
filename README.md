@@ -266,10 +266,9 @@ Function Prototypes
     </ul>
 </details>
 <details>
-    <summary>Jozinna Chioma</summary>
+    <summary>Alex Owiriwa</summary>
     <ul>
-    <li><a href="https://www.github.com/chioma2000">Github</a></li>
-    <li><a href="https://www.twitter.com/jozinnachioma">Twitter</a></li>
-    <li><a href="mailto:chichipeace2000@yahoo.ca">e-mail</a></li>
+    <li><a href="https://www.github.com/Alexorukama">Github</a></li>
+    <li><a href="https://www.twitter.com/Alextjani">Twitter</a></li>
+    <li><a href="mailto:alextjani@yahoo.ca">e-mail</a></li>
     </ul>
-</details>
